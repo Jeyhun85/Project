@@ -1,0 +1,24 @@
+---
+people:
+- Id: 1
+  Code: 524.37
+  FirstName: Benjamin
+  LastName: Finkel
+  Email: ben.finkel@cbtnugets.com
+  Active: true
+- Id: 2
+  Code: 813.09
+  FirstName: Jane
+  LastName: Doe
+  Email: jane.doe@cbtnugets.com
+  Active: true
+- Id: 3
+  Code: 102.9
+  FirstName: Pat
+  LastName: Smith
+  Email: pat.smith@cbtnugets.com
+  Active: true
+  ...
+  ---
+  item1: item1value
+  item1: item2value
